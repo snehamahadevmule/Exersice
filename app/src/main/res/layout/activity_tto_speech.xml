@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/green"
+    android:layout_height="match_parent"
+    tools:context=".TToSpeech">
+
+
+    <Button
+        android:id="@+id/speak"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/button_back"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:text="Speak" />
+
+    <Button
+        android:id="@+id/mute"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/stopmute" />
+</LinearLayout>

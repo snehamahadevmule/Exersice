@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="step">
+
+        <item>Diaphragm Breathing</item>
+        <item>Stomach Breathing </item>
+        <item>Balloon Breathing </item>
+        <item>Ribcage Breathing </item>
+        <item>Body Scan </item>
+        <item>Retreat Breathing </item>
+        <item>Grounding Self </item>
+        <item>Cleansing Sanctuary </item>
+        <item>Mountain Meditation </item>
+        <item>Comparing Emotion </item>
+        <item>Letting Your Thoughts Go!</item>
+        <item>Forgiveness Meditation </item>
+        <item>Mindful Eating </item>
+        <item> Overcoming Craving </item>
+        <item>Mindful Smiling </item>
+        <item>Mindful Reflective Listening </item>
+        <item>Having patience </item>
+        <item>Just Worrying Labelling Technique </item>
+       
+
+    </string-array>
+
+</resources>
